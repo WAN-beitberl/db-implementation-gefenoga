@@ -1,1 +1,1 @@
-"This is me and Tom Michaud's word" 
+"This is me and Tom Michaud's work" 
